@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name = "grouping_example">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="test_task.test_class_a"/>
+            <class name="test_task.test_class_b"/>
+            <class name="test_task.test_class_c"/>
+        </classes>
+    </test>
+</suite>

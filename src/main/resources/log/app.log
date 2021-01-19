@@ -1,0 +1,8 @@
+[INFO] [::20/01/2021 00:01:58 test_listener:18::]
+::Start of task_1
+[ERROR] [::20/01/2021 00:01:58 test_listener:30::]
+::Diff failed.
+[ERROR] [::20/01/2021 00:01:58 test_listener:30::]
+::Sum failed.
+[INFO] [::20/01/2021 00:01:58 test_listener:38::]
+::End of task_1
